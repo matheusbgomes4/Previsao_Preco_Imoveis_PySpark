@@ -7,7 +7,7 @@ Trata-se de um projeto hands-on desenvolvido no **Google Colab**, simulando um c
 
 ## 🎯 Objetivo
 
-Construir um modelo de regressão robusto, utilizando **Random Forest** e validação cruzada para prever o preço de imóveis, com base em dados estruturados.
+Construir um modelo de regressão, utilizando **Random Forest** e validação cruzada para prever o preço de imóveis, com base em dados estruturados.
 
 ---
 
