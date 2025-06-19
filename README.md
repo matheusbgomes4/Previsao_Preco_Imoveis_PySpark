@@ -60,5 +60,3 @@ Construir um modelo de regressão robusto, utilizando **Random Forest** e valida
 | R²      | 0.70                  |
 
 ---
-
-## ▶️ Como Executar
